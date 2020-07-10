@@ -1,5 +1,9 @@
-### Hi there 👋
+### Olá! 👋
 
+Sou a Ana, atualmente sou estudante de Desenvolvimento de Sistemas em processo de transição de carreira.<br>
+Aproveito este espaço para compartilhar um pouco dos meus estudos e testes na área da programação.
+
+<p>Para mais informações, <a href="https://www.linkedin.com/in/analuciarizzi/">clique aqui!</a> 💬<p>
 <!--
 **AnaRizzi/AnaRizzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
