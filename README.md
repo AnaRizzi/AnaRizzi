@@ -1,9 +1,13 @@
+<img src="http://docesrizzi.hospedagemdesites.ws/Ana.jpg" width=200px align=left />
+
 ### Olá! 👋
 
-Sou a Ana, atualmente sou estudante de Desenvolvimento de Sistemas em processo de transição de carreira.<br>
+Sou a Ana, atualmente sou estudante de Desenvolvimento de Sistemas em processo de transição de carreira. Meu foco é no back-end, principalmente em C# e Node.js<br>
 Aproveito este espaço para compartilhar um pouco dos meus estudos e testes na área da programação.
 
 <p>Para mais informações, <a href="https://www.linkedin.com/in/analuciarizzi/">clique aqui!</a> 💬<p>
+  
+
 <!--
 **AnaRizzi/AnaRizzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
