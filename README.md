@@ -5,7 +5,9 @@
 Sou a Ana, atualmente sou estudante de Desenvolvimento de Sistemas em processo de transição de carreira. Meu foco é no back-end, principalmente em C# e Node.js<br>
 Aproveito este espaço para compartilhar um pouco dos meus estudos e testes na área da programação.
 
-<p>Para mais informações, <a href="https://www.linkedin.com/in/analuciarizzi/">clique aqui!</a> 💬<p>
+<p>Mais informações: 💬<p>
+  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/analuciarizzi/)](https://www.linkedin.com/in/analuciarizzi/)
   
 
 <!--
