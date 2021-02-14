@@ -2,7 +2,7 @@
 
 ### Olá! 👋
 
-Sou a Ana, atualmente sou estudante de Desenvolvimento de Sistemas em processo de transição de carreira. Meu foco é no back-end, principalmente em C# e Node.js<br>
+Sou a Ana, sou desenvolvedora back-end júnior em início de carreira. Meu foco é no back-end, principalmente em C# e Node.js<br>
 Aproveito este espaço para compartilhar um pouco dos meus estudos e testes na área da programação.
 
 <p>💬 Mais informações: <p>
