@@ -2,7 +2,7 @@
 
 ### Olá! 👋
 
-Sou a Ana, sou desenvolvedora back-end. Meu foco é no back-end, principalmente em C# e .NET<br>
+Sou a Ana, sou desenvolvedora back-end. Meu foco é principalmente em C# e .NET<br>
 Aproveito este espaço para compartilhar um pouco dos meus estudos e testes na área da programação.
 
 <p>💬 Mais informações: <p>
