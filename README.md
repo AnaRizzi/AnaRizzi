@@ -2,14 +2,14 @@
 
 ### Olá! 👋
 
-Sou a Ana, sou desenvolvedora back-end júnior em início de carreira. Meu foco é no back-end, principalmente em C# e Node.js<br>
+Sou a Ana, sou desenvolvedora back-end. Meu foco é no back-end, principalmente em C# e .NET<br>
 Aproveito este espaço para compartilhar um pouco dos meus estudos e testes na área da programação.
 
 <p>💬 Mais informações: <p>
   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/analuciarizzi/)](https://www.linkedin.com/in/analuciarizzi/)
   
-
+⚡ Fun fact: Passei por uma transição de carreira recentemente, saí da área de Letras para virar desenvolvedora 😄
 <!--
 **AnaRizzi/AnaRizzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
