@@ -1,4 +1,4 @@
-<img src="http://docesrizzi.hospedagemdesites.ws/Ana.jpg" width=200px align=left />
+<img src="https://i.pinimg.com/564x/c7/45/08/c745080c6036a3023a4a9121fb7058a7.jpg" width=200px align=left />
 
 ### Olá! 👋
 
